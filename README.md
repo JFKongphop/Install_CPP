@@ -3,13 +3,15 @@
 # install c++ for macOS and run in vscode
 ## option 1
  
-### 1 install brew
+### 1 open terminal
+ 
+### 2 install brew | copy this script and paste it to terminal
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-### 2 install mingw-w64
+### 3 install mingw-w64 | copy this script and paste it to terminal
 brew install mingw-w64
 
-### 3 test 
+### 4 test 
 create file .cpp in vscode
 
 
