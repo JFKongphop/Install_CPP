@@ -16,8 +16,8 @@ create file .cpp in vscode
 
 
 ## option 2
-
-install Xcode in app store and create file in xcode .cpp
+!! dot't recommend because size this app is 7 GB
+install Xcode in app store and create file in xcode .cpp 
 
 
 # install c++ for windows and run in vscode
